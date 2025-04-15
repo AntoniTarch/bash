@@ -1,0 +1,7 @@
+#!/bin/sh
+export B=~/b
+export T=/data/data/com.termux/files/home
+export S=/storage/emulated/0
+export H=~
+export PATH=$PATH:$B 
+export DISPLAY=localhost:0

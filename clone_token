@@ -1,0 +1,2 @@
+#!/bin/sh -xv
+git clone https://AntoniTarch:xcccccxxx@github.com/AntoniTarch/bash.git
